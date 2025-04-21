@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Fugaz+One&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lexend:wght@100..900&family=Luxurious+Roman&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Gunjala+Gondi:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Luxurious Roman", serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #3A463B;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #819483;
+ 
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 156px;
+    align-items: center;
+}
+
+nav h1{
+    color: white;
+    font-size: 40px;
+}
+
+
+
+ .list-ul{
+    display: flex;  
+    list-style: none;
+    font-size: 25px;
+    gap: 40px;
+    color: white;
+    padding-top: 100px;
+}

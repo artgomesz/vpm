@@ -1,0 +1,29 @@
+.about-main h1{
+    padding-top: 100px;
+    display: flex;
+    color: white;
+    font-size: 68px;
+    justify-content: center;
+}
+
+.about-main p{
+    padding-top: 25px;
+    display: flex;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.about-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;    
+    padding: 2rem;
+  
+  }
+  
+  .txt-main {
+    max-width: 1000px;        
+    line-height: 1.6;        
+  }

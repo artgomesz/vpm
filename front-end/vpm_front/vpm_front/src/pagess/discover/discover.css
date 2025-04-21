@@ -1,0 +1,39 @@
+.discover-txt{
+    font-size: 120px;
+    color: white;
+}
+
+.discover-h2{
+    font-size: 60px;
+    color: white;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+
+.discover-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  
+    
+    text-align: center;
+    padding-top: 60px; /* Ajuste se o Nav estiver fixo */
+  }
+  
+  .txt-container {
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+  }
+
